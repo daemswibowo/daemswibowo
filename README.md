@@ -6,7 +6,7 @@ Love to share what I learn.
 
 Personal Website: https://smeadkraftz.dev/
 
-Youtube Channel: https://www.youtube.com/channel/UCEGGMAzm02aNVqNeXVUeH1Q
+Youtube Channel: https://www.youtube.com/channel/UCTm6D0Ft3Uz54PMKHkvs_Og
 
 ## Let's Connect
 
