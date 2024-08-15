@@ -18,7 +18,7 @@ Youtube Channel: https://www.youtube.com/channel/UCTm6D0Ft3Uz54PMKHkvs_Og
 
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://x.com/daemswibowo)
 
-[<img align="left" alt="instagram" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://instagram.com/webowo.dev)
+[<img align="left" alt="instagram" src="https://img.shields.io/badge/instagram-%23e1306c.svg?&style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/webowo.dev)
 
 <br>
 <br>
