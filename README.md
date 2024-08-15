@@ -4,7 +4,7 @@ I am a fullstack software engineer working with Flutter, ReactJS, NodeJS and AWS
 
 Love to share what I learn.
 
-Personal Website: https://smeadkraftz.dev/
+Personal Website: https://webowo.dev/
 
 Youtube Channel: https://www.youtube.com/channel/UCTm6D0Ft3Uz54PMKHkvs_Og
 
